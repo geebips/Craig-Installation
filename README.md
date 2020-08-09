@@ -1,1 +1,1 @@
-# testing
+# Craig Discord bot installation.
