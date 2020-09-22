@@ -1,1 +1,3 @@
 # Craig Discord bot installation.
+
+Check Wiki tab...
